@@ -10,16 +10,17 @@ With this custom controls you can:
 - undo actions
 
 New Shortcuts for APC 25 (Edited by Dmitry Lozinsky): 
-Clip buttons:
-one press - 		Record Clip
-second press -		Play Clip
-double press -		Delete Clip
-Press on playing - 	Stop Clip
-Shift+StopAllClips+ClipBut - Delete Clip
-Shift+Select - 		Undo
-Shift+ClipStop -	Metronome on/off
-Rec -			Record Clip
-Shift+Rec -		Record Session
+| Clip buttons               | Effect |
+| -------------------------- | ------ |
+| One press                  | Record Clip|
+| Second press               | Play Clip |
+| Double press               | Delete Clip |
+| Press on playing           | Stop Clip |
+| Shift+StopAllClips+ClipBut | Delete Clip |
+| Shift+Select               | Undo |
+| Shift+ClipStop             | Metronome on/off |
+| Rec                        |	 Record Clip |
+| Shift+Rec                  |	 Record Session |
 
 for controls used APC 25 keys (clipStop, Select), so if you need default functions of this buttons - you willbe upset.
 personally for me this setup is very good for live sessions
